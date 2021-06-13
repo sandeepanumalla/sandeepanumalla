@@ -2,7 +2,7 @@
 
 I am Sandeep Anumalla 😊
 
-Full Stack Developer 
+Full Stack Developer seeking Internships
 
  - 🔭 I’m currently working on MERN stack projects 
  - 🌱 I’m currently learning MySQL to build my next project
