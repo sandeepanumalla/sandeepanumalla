@@ -5,7 +5,7 @@ I am Sandeep Anumalla 😊
 Full Stack Developer seeking Internship
 
  - 🔭 I’m currently working on MERN stack projects 
- - 🌱 I’m currently learning MySQL to build my next project
+ - 🌱 I’m currently learning TypeScript to build my next project
  - 🚀 Always ready to build something new things by experimenting new tech
  - 🎯 Life Hack: "If you are stuck. Take a break ⏳ !"
 
