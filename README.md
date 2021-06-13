@@ -4,6 +4,8 @@ I am Sandeep Anumalla 😊
 
 Full Stack Developer seeking Internship
 
+### 👨🏻‍💻 About Me:
+
  - 🔭 I’m currently working on MERN stack projects 
  - 🚀 Always ready to build something new things by experimenting new tech
  - 🎯 Life Hack: "If you are stuck. Take a break ⏳ !"
