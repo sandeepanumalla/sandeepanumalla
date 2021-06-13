@@ -9,8 +9,7 @@ Full Stack Developer seeking Internships
  - 🚀 Always ready to build something new things by experimenting new tech
  - 🎯 Life Hack: "If you are stuck. Take a break ⏳ !"
 
-❤️ Let's get connected:
- 
+### ❤️ Let's get connected:
 
 <!--
 **sandeepanumalla/sandeepanumalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
