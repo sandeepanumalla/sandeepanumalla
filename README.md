@@ -8,7 +8,7 @@ Full Stack Developer seeking Internship
 
  - 🔭 I’m currently working on MERN stack projects 
  - 🚀 Always ready to build something new things by experimenting new tech
- - 🎯 Life Hack: "If you are stuck. Take a break ⏳ !"
+ - 🎯 Life Hack: "Never quit. Life is all about learning⏳ !"
 
 ### ❤️ Let's get connected:
 
