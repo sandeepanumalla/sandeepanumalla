@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on Full Stack React projects 
  - 🚀 Always ready to build something new things by experimenting new tech
  - 🎯 Life Hack: "Never quit. Life is all about learning⏳ !"
- - ⚡ Fun fact: "My perfect day would start with 🎧 and end with 🎧."
+ - ⚡ Fun fact: "I love playing computer video games 🎮, listening 🎧, explore tech on internet 🌐  "
  - 📫 How to reach me: anumalla.sandeep1999@gmail.com
 
 
