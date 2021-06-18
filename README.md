@@ -3,7 +3,7 @@
 ### I am Sandeep Anumalla  😊
 ### A passionate Web Developer 
 <img allign="right" height="400px" width="500px" alt="hello" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
-### 👨🏻‍💻 About Me:
+<h3>👨🏻‍💻 About Me: </h3>
 
  - 🔭 I’m currently working on Full Stack React projects 
  - 🚀 Always ready to build something new things by experimenting new tech
