@@ -1,12 +1,12 @@
 ### Hi there <img allign="right" height="40px" width="40px" alt="hello" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" />
 
 ### I am Sandeep Anumalla  😊
-### A passionate Web Developer 
+### A passionate Full Stack Developer 
 <img allign="right" height="400px" width="500px" alt="hello" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 <h3>👨🏻‍💻 About Me: </h3>
 
  - 🔭 I’m currently focusing on learning Java backend with Spring
- - 🚀 Always ready to build something new things by experimenting new tech
+ - 🚀 Always ready to build something new things by experimenting with new tech
  - 🎯 Life Hack: "Never quit. Life is all about learning⏳ !"
  - ⚡ Fun fact: "I love playing computer video games 🎮, listening 🎧, explore tech on internet 🌐  "
  - 📫 How to reach me: anumalla.sandeep1999@gmail.com
